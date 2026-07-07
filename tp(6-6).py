@@ -527,20 +527,20 @@
 
 
 # # 1) Wap to check whether the number is strong or not. 
-# def factorial(n):
-#     fact=1
-#     for i in range (1,n+1):
-#         fact=fact*i
-#     return fact
-# def is_strong(n):
-#     temp=n
-#     sum=0
-#     while n!=0:
-#         ld=n%10
-#         sum=sum + factorial(ld)
-#         n=n//10
-#     if sum==temp:
-#         print('strong number')
-#     else:
-#         print('not strong number')
-# is_strong(145)
+def factorial(n):
+    fact=1
+    for i in range (1,n+1):
+        fact=fact*i
+    return fact
+def is_strong(n):
+    temp=n
+    sum=0
+    while n!=0:
+        ld=n%10
+        sum=sum + factorial(ld)
+        n=n//10
+    if sum==temp:
+        print('strong number')
+    else:
+        print ('not strong number')
+is_strong(145)
