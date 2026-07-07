@@ -516,14 +516,14 @@
 
 
 # 
-# def add(a,b):
-#     print(a+b)
-#     m=int(input('enter the value:'))    
-#     n=int(input('enter the value:'))
-#     return m+n,m*n,m-n
-# print(add(20,30))
-# # a,b,c=add()
-# # print(a,b,c)
+def add(a,b):
+    print(a+b)
+    m=int(input('enter the value:'))    
+    n=int(input('enter the value:'))
+    return m+n,m*n,m-n
+print(add(20,30))
+# a,b,c=add()
+# print(a,b,c)
 
 
 # # 1) Wap to check whether the number is strong or not. 
