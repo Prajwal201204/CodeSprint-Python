@@ -159,7 +159,50 @@
 # print(out)
 
 
-# # . Wap to get the following output 
-# In=[100,200,50,400,300] 
-# N=300 
-# Out=[[100,200],[300]] 
+# # # 7. Wap to get the following output 
+# # In=[100,200,50,400,300] 
+# # N=300 
+# # Out=[[100,200],[300]] 
+# num=[100,200,50,400,300] 
+# n=300 
+# out=[]
+# for i in range(len(num)):
+#     if num[i]==n:
+#         out.append(num[i])
+#     for j in range(i+1,len(num)):
+#         if num[i]+num[j]==n:
+#             out.append([num[i],num[j]])
+# print(out)
+    
+
+# # 8.Wap to check whether the number is strong or not. (method-1)
+# num = 145
+# temp = num
+# sum = 0
+# while temp > 0:
+#     digit = temp % 10
+#     fact = 1
+#     for i in range(1, digit + 1):
+#         fact = fact * i
+#     sum = sum + fact
+#     temp = temp // 10
+# if sum == num:
+#     print("Strong Number")
+# else:
+#     print("Not Strong Number")
+    
+    
+# # 8.Wap to check whether the number is strong or not. (method-2)
+# num = 145
+# total = 0
+# for i in str(num):
+#     digit = int(i)
+#     fact = 1
+#     for j in range(1, digit + 1):
+#         fact = fact * j
+#     total = total + fact
+# if total == num:
+#     print("Strong Number")
+# else:
+#     print("Not Strong Number")
+
