@@ -175,11 +175,51 @@
 # print(c)
 
 
-# Write a function to check whether a number is positive or negative.
-def num(a):
-    if 0<=a<=9:
-        return 'positive'
-    else:
-        return 'negative'
-c=num(5)
-print(c)
+# # 7.Write a function to check whether a number is positive or negative.
+# def num(a):
+#     if 0<=a<=9:
+#         return 'positive'
+#     else:
+#         return 'negative'
+# c=num(5)
+# print(c)
+
+
+# # 8.Write a function to find the largest of two numbers.
+# def num():
+#     a=int(input('enter the num'))
+#     b=int(input('enter the num'))
+#     c=int(input('enter the num'))
+#     if a>b and a>c:
+#         return (a)
+#     elif b>a and b>c:
+#         return (b)
+#     else:
+#         return (c)
+# v=num()
+# print(v)  
+
+
+# # 9.Write a function to find the factorial of a number.
+# def factorial(a):
+#     fact=1
+#     for i in range(1,a+1):
+#         fact=fact*i
+#     return fact
+# c=factorial(5)
+# print(c)
+        
+
+# # 10.Write a function to check whether a number is prime.
+# def prime(n):
+#     count = 0
+
+#     for i in range(1, n + 1):
+#         if n % i == 0:
+#             count += 1
+
+#     if count == 2:
+#         return "Prime"
+#     return "Not Prime"
+
+# print(prime(13))
