@@ -128,3 +128,58 @@
 # print(f"The character '{ch}' is a {result}.")
  
 
+#######################################################################################################################
+
+# # 1.Function to print Hello
+# def name(a):
+#     return a
+# b=name('hello')
+# print(b)
+
+
+#2. Function to add two numbers
+# def num(a,b):
+#     return a+b
+# b=num(5,6)
+# print(b)
+
+
+# # 3. Function to subtract two numbers
+# def num(a,b):
+#     return (a-b)
+# c=num(100,20)
+# print(c)
+    
+
+# # 4.Write a function to find the square of a number
+# def squre(a):
+#     return (a*a)
+# c=squre(5)
+# print(c)
+
+
+# # 5.Write a function to find the cube of a number.
+# def cube(a):
+#     return(a**a)
+# c=cube(3)
+# print(c)
+
+
+# # 6.Write a function to check whether a number is even or odd.
+# def num(a):
+#     if a%2==0:
+#         return 'even'
+#     else:
+#         return 'odd'
+# c=num(50)
+# print(c)
+
+
+# Write a function to check whether a number is positive or negative.
+def num(a):
+    if 0<=a<=9:
+        return 'positive'
+    else:
+        return 'negative'
+c=num(5)
+print(c)
