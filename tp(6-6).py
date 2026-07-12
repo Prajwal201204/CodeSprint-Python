@@ -507,7 +507,8 @@
 
 
 ############################################################################################
-#  function
+#  #################33function
+
 # def add():
 #     a=int(input('enter the value:'))
 #     b=int(input('enter the value:'))
@@ -544,3 +545,40 @@
 #     else:
 #         print ('not strong number')
 # is_strong(145)
+
+
+
+# # #
+# def greet (func):
+#     def inner (*args ,**kwargs):
+#         print('welcome to my process')
+#         func(*args,*kwargs)
+#         print("thanks for using my program")
+#     return inner
+
+# @greet
+# def add (a,b):
+#     print(a+b)
+# add(10,20)
+
+
+##############################################################################################3
+# # ###########  lambda
+# # 1.
+# strr=lambda x:'palindrome' if x==x[::-1] else 'not palindrome'
+# print(strr('101'))
+
+# # 2.
+# num=lambda x: x*2 if x%2==0 else x**3
+# print(num(5))
+
+
+
+##############################################################################################
+#######  Map
+# # # 1.
+# sqr=lambda n : n**2
+# lst=[1,2,3,4]
+# res=map(sqr,lst)
+# print(list(res))
+
