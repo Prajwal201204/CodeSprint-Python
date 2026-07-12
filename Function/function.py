@@ -218,5 +218,7 @@
 #             count += 1
 #     if count == 2:
 #         return "Prime"
-#     return "Not Prime"
-# print(prime(13))
+#     return "Not Prime" 
+# print(prime(13)) 
+
+
