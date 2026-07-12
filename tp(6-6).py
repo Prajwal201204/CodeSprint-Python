@@ -576,9 +576,20 @@
 
 ##############################################################################################
 #######  Map
-# # # 1.
+# # # 1. Use map() to square all numbers in the list: 
 # sqr=lambda n : n**2
 # lst=[1,2,3,4]
 # res=map(sqr,lst)
-# print(list(res))
+# print(list(res)) 
+
+# # 2. Use map() to convert a list of strings to uppercase: 
+# words = ['apple', 'banana', 'cherry']
+# result = list(map(str.upper, words))
+# print(result)
+
+# # 10. Combine first and last names using map(): 
+# first_names = ['John', 'Jane', 'Alice']
+# last_names = ['Doe', 'Smith', 'Johnson']
+# result = list(map(lambda f, l: f + " " + l, first_names, last_names))
+# print(result)
 
