@@ -5,6 +5,7 @@
 # normal function call directly but genrater to typecast 
 
 # Example:-
+
 # 1
 # def sample():
 #       print('hello')
