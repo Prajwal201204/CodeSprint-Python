@@ -23,7 +23,7 @@
 # if a<b:
 #     print(b,'greater')
 
-# # 5
+# # # 5
 # strr=(input('Enter the string:'))
 # if len(strr)%2==0:
 #     print('even length')
