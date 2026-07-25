@@ -1,14 +1,14 @@
 # # # 1
 # a=int(input('Enter the number'))
 # if a%2==1:
-#     print('odd')
+#     print('odd') 
     
 # # 2
 # a=int(input('Enter the number'))
 # if a%2==0:
 #     print('even')
     
-# # 3
+# # # 3
 # a=(input('Enter the number'))
 # if a==a[::-1]:
 #     print('pallindrom')
