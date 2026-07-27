@@ -4,6 +4,7 @@
 # # square=lambda*args : print(args)
 # # square(2,3,4,5,67,8,9)
 
+
 # # # 2
 # # sum= lambda x,y : [x+y,x*y]
 # # print(sum(10,20))
