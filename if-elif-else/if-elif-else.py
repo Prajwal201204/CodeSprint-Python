@@ -360,8 +360,8 @@
 # if num%3==0 and num%5==0:
 #     print('buzzfizz')
 # elif num%5==0:
-#     print('buzz')
+#     print('buzzz')
 # elif num%3==0:
-#     print('fizz')
+#     print('fizzz')
 # else:
-#     print("Neither Fizz nor Buzz")
+#     print("Neither Fizzz nor Buzzz")
