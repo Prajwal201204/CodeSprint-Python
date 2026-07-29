@@ -8,7 +8,7 @@
 #     print("zero")
     
     
-# # 2 Vote dene ki age check karo
+# # #2 Vote dene ki age check karo
 # a=int(input('enter number'))
 # if a<18:
 #     print("not eligibal")
