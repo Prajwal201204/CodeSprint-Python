@@ -24,7 +24,7 @@
 #     print('not crrect')
 
 
-# # 4 Sab se bara number (2 numbers me)
+# # # 4 Sab se bara number (2 numbers me)
 # a=int(input('enter no'))
 # b=int(input('enter no'))
 # if a<b:
@@ -44,4 +44,4 @@
 # elif a>=60:
 #     print("d")
 # else:
-#     print('fail')
+#     print('fail') 
