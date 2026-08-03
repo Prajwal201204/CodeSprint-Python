@@ -47,6 +47,16 @@
 #     print('fail')
 
 
+# # 1 Positive, Negative ya Zero
+# a=int(input('enter number'))
+# if a>=1:
+#     print('positive')
+# elif a<0:
+#     print("nagativa")
+# elif a==0:
+#     print("zero")
+
+
 # # #5 Grade system
 # a=int(input("enter value"))
 # if a>=90:
