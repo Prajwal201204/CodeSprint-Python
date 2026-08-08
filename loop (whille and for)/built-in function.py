@@ -53,3 +53,18 @@
 #     else:
 #         c.append(i+j)
 # print(c)
+
+    
+# # 2 sum a and b
+# a=[10,20,30,40] 
+# b=[100,200,300,400]
+# c=[]
+# from itertools import zip_longest
+# for i,j in zip_longest(a,b):
+#     if i ==None:
+#         c.append(j)
+#     elif j ==None:
+#         c.append(i)
+#     else:
+#         c.append(i+j)
+# print(c)
