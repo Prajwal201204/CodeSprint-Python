@@ -600,3 +600,8 @@ last_names = ['Doe', 'Smith', 'Johnson']
 result = list(map(lambda f, l: f + " " + l, first_names, last_names))
 print(result)
 
+# 10. Combine first and last names using map(): 
+first_names = ['John', 'Jane', 'Alice']
+last_names = ['Doe', 'Smith', 'Johnson']
+result = list(map(lambda f, l: f + " " + l, first_names, last_names))
+print(result)
