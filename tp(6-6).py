@@ -589,6 +589,12 @@
 # res=map(sqr,lst)
 # print(list(res)) 
 
+# # # 1. Use map() to square all numbers in the list: 
+# sqr=lambda n : n**2
+# lst=[1,2,3,4]
+# res=map(sqr,lst)
+# print(list(res)) 
+
 # # 2. Use map() to convert a list of strings to uppercase: 
 # words = ['apple', 'banana', 'cherry']
 # result = list(map(str.upper, words))
