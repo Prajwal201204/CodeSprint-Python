@@ -3,6 +3,10 @@
 # if a%2==1:
 #     print('odd') 
 
+# # # 1
+# a=int(input('Enter the number'))
+# if a%2==1:
+#     print('odd') 
 
 # # # 2
 # a=int(input('Enter the number'))
