@@ -14,6 +14,18 @@
 # else:
 #     print('Not eligible')
 
+# age=int(input('Enter the age'))
+# gender=input('Enter the gender')
+# if age>18:
+#     if gender.lower()=='male':
+#         print('Hello mr.u r elible to vote' )
+#     elif gender.lower()=='famale':
+#         print('Hello ms.u r eligible to vote')
+#     else:
+#         print('you are also eligible')
+# else:
+#     print('Not eligible')
+
 
 
 # # 1 wap to check the number is even and greater than 5
