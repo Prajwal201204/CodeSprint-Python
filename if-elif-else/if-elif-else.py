@@ -13,6 +13,21 @@
 # else:
 #     print('invalid age') 
 
+# # eligible to vote
+# age=int(input('Enter the age:'))
+# if age<0:
+#     print('Not born yet')
+# elif age<18:
+#     print('NOT eligible')
+# elif age>=18 and age<=50:
+#     print(' eligible to vote')
+# elif age>=50 and age<=80:
+#     print('okay you are eligible to vote')
+# elif age>80:
+#     print('Take a rest')
+# else:
+#     print('invalid age') 
+
 
 # # 1 wap to check the given character is uppercase/ lowercase/ digit/ special (without using inbuilt function)
 # a=input('Enter the value:')
