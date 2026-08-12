@@ -16,6 +16,11 @@
 # newls={i ls[0]:ls[i] for i in range(len(ls))}
 # print(newls)
 
+# # 1 
+# # without enumerate
+# ls=['google','mapple','apple','python']
+# newls={i:ls[i] for i in  range(len(ls))}
+# print(newls)
 
 
 ####################################################################################################
