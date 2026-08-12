@@ -22,6 +22,11 @@
 # newls={i:ls[i] for i in  range(len(ls))}
 # print(newls)
 
+# # with enumerate
+# ls=['google','mapple','apple','python']
+# newls={i:word for i, word in enumerate(ls)}
+# print(newls)
+
 
 ####################################################################################################
 
