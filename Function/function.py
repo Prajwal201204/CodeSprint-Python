@@ -25,7 +25,13 @@
 # a=square(x)
 # print(f'the square of {x} is {a}')
 
-
+# # 
+# def greet (name,gender):
+#     if gender=='Female':
+#         print(f'Hello misss.{name}')
+#     else:
+#         print(f'Hello mr.{name}')
+# greet('ram','male')
         
 
 
