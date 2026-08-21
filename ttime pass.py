@@ -23,6 +23,13 @@
 #     print("not eligibal")
 # elif a>=18:
 #     print('eligibal')
+
+# # #2 Vote dene ki age check karo
+# a=int(input('enter number'))
+# if a<18:
+#     print("not eligibal")
+# elif a>=18:
+#     print('eligibal')
     
 
 # # 3 Password check karo
