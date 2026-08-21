@@ -28,6 +28,7 @@
 # ##########################################################################################3
 
 # # lambda function Example
+# # lambda function Example
 
 # # # 1 waf to find square and cub of a given number 
 # # sum= lambda x : [x**2,x**3]
