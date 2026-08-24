@@ -350,7 +350,9 @@
 #       name='raj'
 #       Add='kalamboli'
 #       helpline=984848186
-      
+
+
+# method of member of object. it is nt recverd not class in the procece of object creation it in by befault  
 #       def __init__(self,p_name,p_add,p_helpline,p_phenomen):
 #             self.p_name=p_name
 #             self.p_add=p_add
