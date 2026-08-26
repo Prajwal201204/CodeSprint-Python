@@ -3,6 +3,10 @@
 # out = [i for i in ls if i != 0] + [0] * ls.count(0)
 # print(out)
 
+# #  1 Shift all the zeros to right
+# ls = [0, 1, 2, 3, 0, 0, 4, 5, 8, 0]
+# out = [i for i in ls if i != 0] + [0] * ls.count(0)
+# print(out)
 
 # # 2 waf to get the following output
 # # s = 'happy morning be safe'
