@@ -4,6 +4,11 @@
 #     print(a)
 #     a=a+1
 
+## 1 print number from 1 to 5 using a while loop
+# a=1
+# while a<=5:
+#     print(a)
+#     a=a+1
 
 # # 2 print even numbers from 2 to 20
 # a=2
