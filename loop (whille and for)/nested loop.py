@@ -173,6 +173,21 @@
 #         if num[i]+num[j]==n:
 #             out.append([num[i],num[j]])
 # print(out)
+
+# # # 7. Wap to get the following output 
+# # In=[100,200,50,400,300] 
+# # N=300 
+# # Out=[[100,200],[300]] 
+# num=[100,200,50,400,300] 
+# n=300 
+# out=[]
+# for i in range(len(num)):
+#     if num[i]==n:
+#         out.append(num[i])
+#     for j in range(i+1,len(num)):
+#         if num[i]+num[j]==n:
+#             out.append([num[i],num[j]])
+# print(out)
     
 
 # # 8.Wap to check whether the number is strong or not. (method-1)
