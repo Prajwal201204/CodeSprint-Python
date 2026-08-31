@@ -12,6 +12,13 @@
 
 
 # a=eval(input('input value'))
+# b=eval(input('input value'))
+# c=eval(input('input value'))
+# d=(a+b+c)/300*100
+# print(d)
+
+
+# a=eval(input('input value'))
 # b=eval(input('input value')
 # c=eval(input('input value'))
 # d=(a+b+c)/300*100
