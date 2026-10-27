@@ -359,3 +359,11 @@
 #             self.p_phenomen=p_phenomeng 
 
 # method of member of object. it is nt recverd not class in the procece of object creation it in by befault  
+
+# class bank:
+#       bname='ICICI'
+#       bloc='mumbai'
+#       ifsc='icic123423'
+#       helpline=123424                  
+
+# # 
