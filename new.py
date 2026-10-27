@@ -357,3 +357,5 @@
 #             self.p_name=p_name
 #             self.p_add=p_add
 #             self.p_phenomen=p_phenomeng 
+
+# method of member of object. it is nt recverd not class in the procece of object creation it in by befault  
